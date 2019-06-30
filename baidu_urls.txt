@@ -1,3 +1,10 @@
-sunyunzeng.com/2019/05/28/算法题-只出现一次的数字/
-sunyunzeng.com/2019/05/27/Algorithm-排序算法/
-sunyunzeng.com/2019/05/27/Linux终端常用指令/
+http://sunyunzeng.com/Leetcode-105-从前序与中序遍历序列构造二叉树/
+http://sunyunzeng.com/Leecode-101-对称二叉树/
+http://sunyunzeng.com/Leecode-48-旋转图像/
+http://sunyunzeng.com/Leecode-155-最小栈/
+http://sunyunzeng.com/Leecode-448-找到所有数组中消失的数字/
+http://sunyunzeng.com/Leecode-234-回文链表/
+http://sunyunzeng.com/Leecode-70-爬楼梯/
+http://sunyunzeng.com/Leecode-198-打家劫舍/
+http://sunyunzeng.com/Leecode-53-最大子序和/
+http://sunyunzeng.com/Leecode-538-二叉搜索树转换为累加树/
