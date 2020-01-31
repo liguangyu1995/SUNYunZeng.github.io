@@ -1,3 +1,4 @@
+http://sunyunzeng.com/自己实现简单版Vue-2-定义Observer实现对象属性劫持/
 http://sunyunzeng.com/自己实现简单版Vue-1-编译初始Vue模版/
 http://sunyunzeng.com/JS异步函数小结/
 http://sunyunzeng.com/LeetCode-72-编辑距离/
@@ -7,4 +8,3 @@ http://sunyunzeng.com/LeetCode-1143-最长公共子序列/
 http://sunyunzeng.com/LeetCode-300-最长上升子序列/
 http://sunyunzeng.com/Leetcode-413-等差数列划分/
 http://sunyunzeng.com/LeetCode-打家劫舍 II一/
-http://sunyunzeng.com/Vue-Express-MySQL驾驶行为分析全栈项目-六-ECharts实现轨迹动态可视化/
